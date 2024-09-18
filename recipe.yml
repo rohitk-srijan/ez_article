@@ -45,6 +45,7 @@ install:
   - field_group
   - smart_trim
   - content_lock
+  - components
 
 config:
   import:
