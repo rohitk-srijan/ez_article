@@ -1,6 +1,6 @@
 {
     "name": "drupal_recipe/ez_article",
-    "description": "Provides Landing Page Builder with components",
+    "description": "Provides article content type.",
     "type": "drupal-recipe",
     "repositories": [
             {
