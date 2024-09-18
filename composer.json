@@ -15,11 +15,13 @@
     "require": {
         "drupal/schema_metatag": "^3.0",
         "srijanone/ezcontent_paragraphs": "dev-main",
+        "srijanone/ezcontent_node": "dev-main",
         "drupal/length_indicator": "^1.4",
         "drupal/entityqueue": "^1.8",
         "drupal/diff": "^2.0@beta",
         "drupal/autocomplete_deluxe": "^2.1",
-        "drupal/yoast_seo": "^2.0@alpha"
+        "drupal/yoast_seo": "^2.0@alpha",
+        "srijanone/ezcontent_theme": "^2.1",
     },
     "extra": {
         "patches": {
